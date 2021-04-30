@@ -75,5 +75,10 @@ class App extends React.Component {
     );
   }
 }
-
 export default App;
+   return (
+      <div>
+        <div className="Box Box--spacious f4">
+          <div className="Box-header">
+<h3 className="Box-title d-flex flex-justify-center">GradeBook</h3>
+          </div>
